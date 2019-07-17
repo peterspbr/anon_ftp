@@ -2,7 +2,7 @@
 A code to simply verify if an ftp application have anonymous login and try to connect with random password
 
 # Usage
-To use simply type anon_ftp.py <host_addr
+To use simply type anon_ftp.py <host_addr>
 
 **Don't use it on a unauthorized server!**
 
